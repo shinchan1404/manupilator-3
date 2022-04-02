@@ -1,0 +1,31 @@
+
+span{
+    color:black;
+    font-size: 15px;
+}
+h3{
+    font-size: 25px;
+    background-color:rgb(88, 213, 245);
+    color:white;
+    width: 100%;
+    margin:0px;
+    box-shadow: grey 10px 10px 10px;
+
+}
+.footer{
+    bottom:0;
+    width:100%;
+    position: fixed;
+    background-color: grey;
+    font-size: 20px;
+}
+canvas{
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px;
+    box-shadow: grey 10px 10px 10px;
+    
+ 
+}
+body{
+    background-color: lightgreen;
+}
